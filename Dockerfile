@@ -1,5 +1,6 @@
 FROM docker.km3net.de/common/aanet
 
+MAINTAINER vkulikovskiy@km3net.de
 #RUN apt-get update
 #RUN apt-get install dnf -y
 #RUN apt-get install python3 pip -y 
