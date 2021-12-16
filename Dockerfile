@@ -1,6 +1,7 @@
-FROM docker.km3net.de/common/aanet
+#FROM docker.km3net.de/common/aanet:latest
+FROM centos/powershell:latest
 
-MAINTAINER vkulikovskiy@km3net.de
+#MAINTAINER vkulikovskiy@km3net.de
 #RUN apt-get update
 #RUN apt-get install dnf -y
 #RUN apt-get install python3 pip -y 
