@@ -1,5 +1,5 @@
 #FROM docker.km3net.de/common/aanet:latest
-FROM centos/powershell:latest
+#FROM centos/powershell:latest
 FROM gear8mike/test-repo:ubuntu_aanet
 
 #MAINTAINER vkulikovskiy@km3net.de
