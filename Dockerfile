@@ -2,7 +2,7 @@
 #FROM centos/powershell:latest
 FROM gear8mike/test-repo:ubuntu_aanet
 
-RUN bash
+#RUN bash
 
 #MAINTAINER vkulikovskiy@km3net.de
 #RUN apt-get update
