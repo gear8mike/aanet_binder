@@ -1,6 +1,6 @@
 #FROM docker.km3net.de/common/aanet:latest
-#FROM gear8mike/test-repo:ubuntu_aanet
-FROM gear8mike/test-repo:ubuntu_bash
+FROM gear8mike/test-repo:ubuntu_aanet
+#FROM gear8mike/test-repo:ubuntu_bash
 
 #RUN bash
 
